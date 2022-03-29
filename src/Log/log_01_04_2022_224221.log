@@ -1,0 +1,4 @@
+2022-Jan-04 22:42:11,512 [main] com.testing.config.BaseClass 
+ INFO  browser is launch 
+2022-Jan-04 22:42:21,469 [main] com.testing.util.TestListener 
+ INFO  takes the Screenshort succesfully

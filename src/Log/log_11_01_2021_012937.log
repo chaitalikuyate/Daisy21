@@ -1,0 +1,4 @@
+2021-Nov-01 01:29:35,254 [main] com.testing.util.TestListener 
+ INFO  Test is failed. Taking screenshot
+2021-Nov-01 01:29:37,884 [main] com.testing.util.TestListener 
+ INFO  UNable to take Screenshot
